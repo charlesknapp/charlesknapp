@@ -1,4 +1,4 @@
-<h1 align="center">🅒🅗🅐🅡🅛🅔🅢 🅚🅝🅐🅟🅟'🅢 🅖🅘🅣🅗🅤🅑</h1>
+<h1 align="center">✴  👨‍💻  𝒞𝒽𝒶𝓇𝓁𝑒𝓈 𝒦𝓃𝒶𝓅𝓅'𝓈 𝒢𝒾𝓉𝒽𝓊𝒷  👨‍💻  ✴</h1>
 <h3 align="center">From full-stack development for your businesses and projects to engineering your game's soundtracks & audio soundscapes, I'll complete any task with detail and efficiency.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=charlesknapp&label=Profile%20views&color=0e75b6&style=flat" alt="charlesknapp" /> </p>
