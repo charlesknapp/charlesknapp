@@ -3,16 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=charlesknapp&label=Profile%20views&color=0e75b6&style=flat" alt="charlesknapp" /> </p>
 
-<p>
--  🔭 I’m currently working on **MarketGuard (Complete, SaaS XenForo Anti-Piracy)**
-
--  🌱 I’m currently learning **MongoDB, Express, React, NodeJS**
-
--  📫 How to reach me **charles@cadogy.com**
-
--  ⚡ Fun fact **I was adopted from Stavropol, Russia**
-</p>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/knappcharles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="knappcharles" height="30" width="40" /></a>
