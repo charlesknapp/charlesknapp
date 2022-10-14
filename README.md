@@ -13,6 +13,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesknapp&show_icons=true&locale=en&theme=onedark" alt="charlesknapp" />
-&nbsp; check out some of my recent programming statistics below! &nbsp;
+&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=charlesknapp&show_icons=true&locale=en&theme=onedark" alt="charlesknapp" />
 </p>
