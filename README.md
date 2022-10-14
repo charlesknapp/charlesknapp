@@ -20,4 +20,4 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=charlesknapp&show_icons=true&layout=compact&locale=en&theme=github_dark" alt="charlesknapp" />
 </p> -->
 
-<div class="Box-body p-4" style="padding:12px!important;"></div>
+<div class="Box-body p-4" style="padding:4px!important;"></div>
