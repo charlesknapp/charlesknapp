@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=charlesknapp&label=Profile%20views&color=0e75b6&style=flat" alt="charlesknapp" /> </p>
 
-<div align="center;list-style: none;">
+<p align="center;" style="list-style: none;">
 -  🔭 I’m currently working on **MarketGuard (Complete, SaaS XenForo Anti-Piracy)**
 
 -  🌱 I’m currently learning **MongoDB, Express, React, NodeJS**
@@ -11,7 +11,7 @@
 -  📫 How to reach me **charles@cadogy.com**
 
 -  ⚡ Fun fact **I was adopted from Stavropol, Russia**
-</div>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
