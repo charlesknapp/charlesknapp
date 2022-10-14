@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=charlesknapp&label=Profile%20views&color=0e75b6&style=flat" alt="charlesknapp" /> </p>
 
-<p align="center">
+<p>
 -  🔭 I’m currently working on **MarketGuard (Complete, SaaS XenForo Anti-Piracy)**
 
 -  🌱 I’m currently learning **MongoDB, Express, React, NodeJS**
