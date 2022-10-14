@@ -4,13 +4,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=charlesknapp&label=Profile%20views&color=0e75b6&style=flat" alt="charlesknapp" /> </p>
 
 <div align="center">
-- 🔭 I’m currently working on **MarketGuard (Complete, SaaS XenForo Anti-Piracy)**
+🔭 I’m currently working on **MarketGuard (Complete, SaaS XenForo Anti-Piracy)**
 
-- 🌱 I’m currently learning **MongoDB, Express, React, NodeJS**
+🌱 I’m currently learning **MongoDB, Express, React, NodeJS**
 
-- 📫 How to reach me **charles@cadogy.com**
+📫 How to reach me **charles@cadogy.com**
 
-- ⚡ Fun fact **I was adopted from Stavropol, Russia**
+⚡ Fun fact **I was adopted from Stavropol, Russia**
 </div>
 
 <h3 align="center">Connect with me:</h3>
