@@ -19,3 +19,9 @@
 &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=charlesknapp&show_icons=true&layout=compact&locale=en&theme=github_dark" alt="charlesknapp" />
 </p> -->
+
+<style>
+.p-4 {
+  padding: 12px !important;
+ }
+</style>
