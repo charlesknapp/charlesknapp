@@ -3,6 +3,7 @@
 
 <h1>
 👋 Hey, I'm Charles!
+<a href='https://www.buymeacoffee.com/charlesknapp' target="_blank"><img align="right" alt='Buy Me a Coffee' src='https://img.shields.io/badge/BUY_ME A COFFEE-100000?style=flat-square&logo=Buy Me a Coffee&logoColor=white&labelColor=505050&color=FFE13A'/></a>
 <a href='https://linkedin.com/in/knappcharles' target="_blank"><img align="right" alt='Linkedin' src='https://img.shields.io/badge/KNAPPCHARLES-100000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=505050&color=1586FF'/></a>
 <a href='https://instagram.com/charleysongs' target="_blank"><img align="right" alt='Instagram' src='https://img.shields.io/badge/CHARLEY-100000?style=flat-square&logo=Instagram&logoColor=white&labelColor=505050&color=FF6161'/></a>
 </h1>
