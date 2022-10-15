@@ -14,6 +14,7 @@ From full-stack development for your businesses and projects to engineering your
 
 <h1>Check Out My Statistics</h1>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesknapp&show_icons=true&layout=compact&locale=en&theme=codeSTACKr" alt="charlesknapp" />
+<img src="https://github-readme-stats.vercel.app/api?username=charlesknapp&show_icons=true&layout=compact&locale=en&theme=codeSTACKr" alt="charlesknapp" />
 
 <!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesknapp&show_icons=true&layout=compact&locale=en&theme=github_dark" alt="charlesknapp" />
