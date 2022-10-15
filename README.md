@@ -10,10 +10,8 @@
 <h3 align="left">Welcome to my GitHub profile!</h3>
 <p>I love creating and contributing towards web applications that empower other people to build amazing things.<br>
 From full-stack development for your businesses and projects to engineering your game's soundtracks & audio soundscapes, I'll complete any task with detail and efficiency.</p>
-<br>
 <h3>Interested in discussing more?</h3>
 <p>Reach out to me via one of my social handles! I love talking tech and learning as much as possible. Let's share our knowledge!</p>
-<br>
 <h1>My Toolbox</h1>
 <h4>
 These are some of my day-to-day "essentials" for creating exceptional projects. I love learning new skills!
