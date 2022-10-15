@@ -8,7 +8,7 @@ Hey 👋, I'm Charles!
 <a href="https://linkedin.com/in/knappcharles"><img align="right" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </h1>
 
-<h3 align="left">Hey 👋, I'm Charles!<br><br>
+<h3 align="left">
 Thanks for viewing my GitHub profile. I love creating and contributing to web applications that involve empowering other people to build amazing things.
 From full-stack development for your businesses and projects to engineering your game's soundtracks & audio soundscapes, I'll complete any task with detail and efficiency.</h3>
 <h1>My Toolkit</h1>
