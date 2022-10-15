@@ -8,11 +8,12 @@
 </h1>
 
 <h3 align="left">
-Welcome to my GitHub profile!<br><br>
-I love creating and contributing towards web applications that empower other people to build amazing things.
-From full-stack development for your businesses and projects to engineering your game's soundtracks & audio soundscapes, I'll complete any task with detail and efficiency.<br><br>
+<Welcome to my GitHub profile!<br><br>
+<p>I love creating and contributing towards web applications that empower other people to build amazing things.
+From full-stack development for your businesses and projects to engineering your game's soundtracks & audio soundscapes, I'll complete any task with detail and efficiency.</p><br><br>
 Interested in discussing more?<br><br>
-Reach out to me via one of my social handles! I love talking tech and learning as much as possible. Let's share our knowledge!</h3>
+<p>Reach out to me via one of my social handles! I love talking tech and learning as much as possible. Let's share our knowledge!</p>
+</h3>
 <br>
 <h1>My Toolbox</h1>
 <h4>
