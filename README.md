@@ -17,7 +17,6 @@ From full-stack development for your businesses and projects to engineering your
 <p><strong>Reach out to me via one of my social handles! I love talking tech and learning as much as possible. Let's share our knowledge!</strong></p>
 <!-- JOKES -->
 <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
-<br>
 <h1>My Toolbox <img title="View my essentials list below!" align="right" alt="Toolbox Icon" src="https://www.freeiconspng.com/thumbs/toolbox-icon/toolbox-icon-4.png" height="40" width="40"></h1>
 <h4>A collection of must-have programs and utilities that make my life easier every single day.</h4>
 
