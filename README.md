@@ -1,4 +1,4 @@
-![Welcome To My Page](https://raw.githubusercontent.com/charlesknapp/charlesknapp/main/banner-header-final.gif)
+![Welcome To My Page](https://raw.githubusercontent.com/charlesknapp/charlesknapp/main/banner-header.gif)
 <!-- <h1 align="left">𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚃𝚑𝚎 𝙶𝚒𝚝𝙷𝚞𝚋 𝚘𝚏 𝙲𝚑𝚊𝚛𝚕𝚎𝚜 𝙺𝚗𝚊𝚙𝚙</h1> -->
 
 <p align="center">
