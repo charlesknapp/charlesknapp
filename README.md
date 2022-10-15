@@ -12,7 +12,7 @@
 From full-stack development for your businesses and projects to engineering your game's soundtracks & audio soundscapes, I'll complete any task with detail and efficiency.</strong></p>
 <h3>Interested in discussing more?</h3>
 <p><strong>Reach out to me via one of my social handles! I love talking tech and learning as much as possible. Let's share our knowledge!</strong></p>
-
+<br>
 <h1 align="left">My Toolbox <img align="right" alt="Toolbox Icon" src="https://www.freeiconspng.com/thumbs/toolbox-icon/toolbox-icon-4.png" height="40" width="40"></h1>
 <h4>
 These are some of my day-to-day "essentials" for creating exceptional projects. I love learning new skills!
