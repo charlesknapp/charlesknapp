@@ -1,11 +1,11 @@
 ![Welcome To My Page](https://raw.githubusercontent.com/charlesknapp/charlesknapp/main/top-header.gif)
 <!-- <h1 align="left">𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚃𝚑𝚎 𝙶𝚒𝚝𝙷𝚞𝚋 𝚘𝚏 𝙲𝚑𝚊𝚛𝚕𝚎𝚜 𝙺𝚗𝚊𝚙𝚙</h1> -->
 
-<h1>
+<h2>
 <img align="left" alt="Waving Hand" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" height="40" width="40"> &nbsp; Hey, I'm Charles!
 <a href='https://buymeacoffee.com/charlesknapp' target="_blank"><img align="right" alt='Buy me a coffee' src='https://img.shields.io/badge/BUY_ME A COFFEE-100000?style=flat&logo=Buy me a coffee&logoColor=white&labelColor=505050&color=FFE02C'/></a>
 <a href='https://linkedin.com/in/knappcharles' target="_blank"><img align="right" alt='Linkedin' src='https://img.shields.io/badge/VIEW_MY LINKEDIN-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=505050&color=2DB7FD'/></a>
-</h1>
+</h2>
 
 <h3 align="left">Welcome to my GitHub profile!</h3>
 <h4>I love creating and contributing towards web applications that empower other people to build amazing things.<br>
