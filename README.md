@@ -10,7 +10,7 @@
 <a href='https://linkedin.com/in/knappcharles' target="_blank"><img align="right" title='View my Linkedin' alt='Linkedin' width="28" height="28" src='https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png'/></a></h1>
 
 <h3 align="left"><img src="https://thumbs.gfycat.com/SardonicDishonestDouglasfirbarkbeetle-max-1mb.gif" height="16" width="16"> Welcome to My World</h3>
-<p><strong>I love creating and contributing towards web applications that empower other people to build amazing things.<br> &nbsp; <img src='https://random-memer.herokuapp.com/' height="200" width="auto" title="Meme" alt="Please refresh the page if the meme doesn't show up." align="right">
+<p><strong>I love creating and contributing towards web applications that empower other people to build amazing things.<br> &nbsp;&nbsp; <img src='https://random-memer.herokuapp.com/' height="250" width="auto" title="Meme" alt="Please refresh the page if the meme doesn't show up." align="right">
 From full-stack development for your businesses and projects to engineering your game's soundtracks & audio soundscapes,<br>my tasks are completed with detail and efficiency.</strong></p>
 
 <h3><img src="https://clipartix.com/wp-content/uploads/2018/03/thinking-gif-2018-40.gif" height="16" width="16"> Let's Get Connected</h3>
