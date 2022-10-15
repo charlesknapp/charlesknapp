@@ -22,7 +22,7 @@ From full-stack development for your businesses and projects to engineering your
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=charlesknapp&show_icons=true&locale=en&theme=codeSTACKr" alt="charlesknapp" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesknapp&show_icons=true&locale=en&theme=codeSTACKr" alt="charlesknapp" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=charlesknapp&show_icons=true&locale=en&theme=codeSTACKr" alt="charlesknapp" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=charlesknapp&show_icons=true&locale=en&theme=codeSTACKr" alt="charlesknapp" />
 
 <!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesknapp&show_icons=true&locale=en&theme=codeSTACKr" alt="charlesknapp" />
