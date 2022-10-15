@@ -11,7 +11,7 @@
 
 <h3 align="left"><img src="https://thumbs.gfycat.com/SardonicDishonestDouglasfirbarkbeetle-max-1mb.gif" height="16" width="auto"> Welcome to My World</h3>
 <p><strong>I love creating and contributing towards web applications that empower other people to build amazing things.<br>
-From full-stack development for your businesses and projects to engineering your game's soundtracks & audio soundscapes, I complete my tasks with detail and efficiency.</strong></p>
+From full-stack development for your businesses and projects to engineering your game's soundtracks & audio soundscapes,<br>I complete my tasks with detail and efficiency.</strong></p>
 
 <h3><img src="https://clipartix.com/wp-content/uploads/2018/03/thinking-gif-2018-40.gif" height="16" width="auto"> Let's Get Connected</h3>
 <p><strong>Reach out to me via one of my social handles! I love talking tech and learning as much as possible. Let's share our knowledge!</strong></p>
