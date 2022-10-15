@@ -2,7 +2,7 @@
 <!-- <h1 align="left">𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚃𝚑𝚎 𝙶𝚒𝚝𝙷𝚞𝚋 𝚘𝚏 𝙲𝚑𝚊𝚛𝚕𝚎𝚜 𝙺𝚗𝚊𝚙𝚙</h1> -->
 
 <h1>
-👋 Hey, I'm Charles!
+<img align="left" alt="Waving Hand" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" height="16"> Hey, I'm Charles!
 <a href='https://www.buymeacoffee.com/charlesknapp' target="_blank"><img align="right" title="Donate a Coffee!" alt='Buy Me a Coffee' src='https://img.shields.io/badge/BUY_ME A COFFEE-100000?style=flat-square&logo=Buy Me a Coffee&logoColor=white&labelColor=505050&color=FFE13A'/></a>
 <a href='https://linkedin.com/in/knappcharles' target="_blank"><img align="right" title="View my LinkediIn Profile" alt='Linkedin' src='https://img.shields.io/badge/KNAPPCHARLES-100000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=505050&color=1586FF'/></a>
 <a href='https://instagram.com/charleysongs' target="_blank"><img align="right" title="View my Instagram Profile" alt='Instagram' src='https://img.shields.io/badge/CHARLEY-100000?style=flat-square&logo=Instagram&logoColor=white&labelColor=505050&color=FF6161'/></a>
