@@ -3,7 +3,7 @@
 
 <h1>
 👋 Hey, I'm Charles!
-<a href='https://linkedin.com/in/knappcharles' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/KNAPPCHARLES-100000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=505050&color=F41D57'/></a>
+<a href='https://linkedin.com/in/knappcharles' target="_blank"><img align="right" alt='Linkedin' src='https://img.shields.io/badge/KNAPPCHARLES-100000?style=flat-square&logo=Linkedin&logoColor=white&labelColor=505050&color=F41D57'/></a>
 <a href='https://instagram.com/charleysongs' target="_blank"><img align="right" alt='Instagram' src='https://img.shields.io/badge/CHARLEYSONGS-100000?style=flat-square&logo=Instagram&logoColor=white&labelColor=505050&color=F41D57'/></a>
 </h1>
 
