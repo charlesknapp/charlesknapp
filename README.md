@@ -16,6 +16,7 @@
 <p><strong>Reach out to me via one of my social handles! I love talking tech and learning as much as possible. Let's share our knowledge!</strong></p>
 
 <h3 align="left"><img src="https://media.tenor.com/HJvqN2i4Zs4AAAAj/milk-and-mocha-cute.gif" height="16" width="16"> What I’m Listening To</h3>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=knappchas123&cover_image=true&theme=novatorem&show_offline=false&bar_color=009dff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <br>
