@@ -18,7 +18,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=knappchas123&cover_image=true&theme=novatorem&show_offline=false&bar_color=009dff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=knappchas123&redirect=true)
 
-<br>
 <h1>My Toolbox <img title="View my essentials list below!" align="right" alt="Toolbox Icon" src="https://www.freeiconspng.com/thumbs/toolbox-icon/toolbox-icon-4.png" height="40" width="40"></h1>
 <h4>A collection of must-have programs and utilities that make my life easier every single day.</h4>
 
