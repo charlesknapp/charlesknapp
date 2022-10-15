@@ -9,7 +9,8 @@
 </h1>
 
 <h3 align="left">
-Thanks for viewing my GitHub profile. I love creating and contributing towards web applications that empower other people to build amazing things.
+Thanks for viewing my GitHub profile.<br>
+I love creating and contributing towards web applications that empower other people to build amazing things.
 From full-stack development for your businesses and projects to engineering your game's soundtracks & audio soundscapes, I'll complete any task with detail and efficiency.</h3>
 <br>
 <h1>My Toolbox</h1>
