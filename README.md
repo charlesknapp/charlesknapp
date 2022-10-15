@@ -21,7 +21,6 @@ From full-stack development for your businesses and projects to engineering your
 
 <!-- START SKILLSETS -->
 <table><tr><td valign="top" width="33%">
-
 <h3 align="center">Fontend</h3> 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -35,7 +34,6 @@ From full-stack development for your businesses and projects to engineering your
 </div>
 
 </td><td valign="top" width="33%">
-
 <h3 align="center">Backend</h3>
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
@@ -49,7 +47,6 @@ From full-stack development for your businesses and projects to engineering your
 </div>
 
 </td><td valign="top" width="33%">
-
 <h3 align="center">DevOps</h3>  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
