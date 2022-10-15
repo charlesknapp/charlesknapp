@@ -12,7 +12,7 @@
 Welcome to my GitHub profile!<br><br>
 I love creating and contributing towards web applications that empower other people to build amazing things.
 From full-stack development for your businesses and projects to engineering your game's soundtracks & audio soundscapes, I'll complete any task with detail and efficiency.<br><br>
-Interested in disussing more? Reach out to me via my social handles! I love talking tech and learning everything possible.</h3>
+Interested in disussing more?<br>Reach out to me via my social handles! I love talking tech and learning everything possible.</h3>
 <br>
 <h1>My Toolbox</h1>
 <p>
