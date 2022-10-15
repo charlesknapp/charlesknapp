@@ -9,7 +9,7 @@
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+I'm+Charles.;Thanks+for+Visiting+My+GitHub.;Let's+Make+Something+Incredible!" alt="Typing SVG" /></a> <a href='https://buymeacoffee.com/charlesknapp' target="_blank"><img align="right" alt='Buy me a coffee' title='Buy me a coffee' width="28" height="28" src='https://i.ibb.co/CW0Dgn1/coffeeicon.png'/></a>
 <a href='https://linkedin.com/in/knappcharles' target="_blank"><img align="right" title='View my Linkedin' alt='Linkedin' width="28" height="28" src='https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png'/></a></h1>
 
-<h3 align="left">Welcome to My World <img src="https://i.ibb.co/GCQ4qxQ/Png-Item-314465.png" height="12" width="auto"></h3>
+<h3 align="left">Welcome to My World <img src="https://i.ibb.co/GCQ4qxQ/Png-Item-314465.png" height="16" width="auto"></h3>
 <p><strong>I love creating and contributing towards web applications that empower other people to build amazing things.<br>
 From full-stack development for your businesses and projects to engineering your game's soundtracks & audio soundscapes, I'll complete any task with detail and efficiency.</strong></p>
 <h3>Want to Discuss More?</h3>
