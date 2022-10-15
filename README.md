@@ -8,7 +8,8 @@
 <h3 align="center">From full-stack development for your businesses and projects to engineering your game's soundtracks & audio soundscapes, I'll complete any task with detail and efficiency.</h3>
 <br>
 <p align="center">
-<h2>Connect With Me</h2><br>
+<Strong>Connect With Me</strong>
+<br>
 <a href="https://linkedin.com/in/knappcharles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="knappcharles" height="30" width="24" /></a> <a href="https://instagram.com/charleysongs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="charleysongs" height="30" width="24" /></a>
 </p>
 <br>
