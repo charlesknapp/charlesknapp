@@ -12,7 +12,8 @@
 <h3 align="left"><img src="https://thumbs.gfycat.com/SardonicDishonestDouglasfirbarkbeetle-max-1mb.gif" height="16" width="auto"> Welcome to My World</h3>
 <p><strong>I love creating and contributing towards web applications that empower other people to build amazing things.<br>
 From full-stack development for your businesses and projects to engineering your game's soundtracks & audio soundscapes, I'll complete any task with detail and efficiency.</strong></p>
-<h3>Want to Discuss More?</h3>
+
+<h3><img src="https://clipartix.com/wp-content/uploads/2018/03/thinking-gif-2018-40.gif" height="16" width="auto"> Want to Discuss More?</h3>
 <p><strong>Reach out to me via one of my social handles! I love talking tech and learning as much as possible. Let's share our knowledge!</strong></p>
 <br>
 <h1>My Toolbox <img align="right" alt="Toolbox Icon" src="https://www.freeiconspng.com/thumbs/toolbox-icon/toolbox-icon-4.png" height="40" width="40"></h1>
