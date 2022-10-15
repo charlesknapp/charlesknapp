@@ -1,10 +1,8 @@
 ![Welcome To My Page](https://raw.githubusercontent.com/charlesknapp/charlesknapp/main/top-header.gif)
 <!-- <h1 align="left">𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚃𝚑𝚎 𝙶𝚒𝚝𝙷𝚞𝚋 𝚘𝚏 𝙲𝚑𝚊𝚛𝚕𝚎𝚜 𝙺𝚗𝚊𝚙𝚙</h1> -->
 
-<h1>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&background=FFFFFF00&width=435&lines=Hey%2C+I'm+Charles!)](https://git.io/typing-svg)
-<a href='https://buymeacoffee.com/charlesknapp' target="_blank"><img align="right" alt='Buy me a coffee' src='https://img.shields.io/badge/BUY_ME A COFFEE-100000?style=flat&logo=Buy me a coffee&logoColor=white&labelColor=505050&color=FFE02C'/></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&background=FFFFFF00&width=435&lines=Hey%2C+I'm+Charles!)](https://git.io/typing-svg) <a href='https://buymeacoffee.com/charlesknapp' target="_blank"><img align="right" alt='Buy me a coffee' src='https://img.shields.io/badge/BUY_ME A COFFEE-100000?style=flat&logo=Buy me a coffee&logoColor=white&labelColor=505050&color=FFE02C'/></a>
 <a href='https://linkedin.com/in/knappcharles' target="_blank"><img align="right" alt='Linkedin' src='https://img.shields.io/badge/VIEW_MY LINKEDIN-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=505050&color=2DB7FD'/></a>
-</h1>
 
 <h3 align="left">Welcome to my GitHub profile!</h3>
 <p><strong>I love creating and contributing towards web applications that empower other people to build amazing things.<br>
