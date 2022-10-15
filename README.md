@@ -2,6 +2,12 @@
 <!-- <h1 align="left">𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚃𝚑𝚎 𝙶𝚒𝚝𝙷𝚞𝚋 𝚘𝚏 𝙲𝚑𝚊𝚛𝚕𝚎𝚜 𝙺𝚗𝚊𝚙𝚙</h1> -->
 
 <h1>
+Hey 👋, I'm Charles!
+<a href="https://www.instagram.com/charleysongs/"><img align="left" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> &nbsp;
+<a href="https://linkedin.com/in/knappcharles"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+</h1>
+
+<h1>
 <a href="https://www.instagram.com/charleysongs/"><img align="left" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> &nbsp;
 <a href="https://linkedin.com/in/knappcharles"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <img align="right" src="https://komarev.com/ghpvc/?username=charlesknapp&label=Profile%20views&color=0e75b6&style=flat" alt="charlesknapp" /><a href="#" title="Go to contributions doc"><img align="right" src="https://img.shields.io/badge/contributions-welcome-blue" alt="contributions - welcome"></a> <a href="https://www.microsoft.com/" title="Go to Microsoft homepage"><img align="right" src="https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white" alt="OS - Windows"></a> <a href="https://www.apple.com/macos/" title="Go to Apple homepage"><img align="right" src="https://img.shields.io/badge/OS-macOS-blue?logo=apple&logoColor=white" alt="OS - macOS"></a>
