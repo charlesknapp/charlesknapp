@@ -7,11 +7,11 @@
 <a href='https://linkedin.com/in/knappcharles' target="_blank"><img align="right" alt='Linkedin' src='https://img.shields.io/badge/VIEW_MY LINKEDIN-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=505050&color=2DB7FD'/></a>
 </h2>
 
-<h2 align="left">Welcome to my GitHub profile!</h2>
-<h4>I love creating and contributing towards web applications that empower other people to build amazing things.<br>
-From full-stack development for your businesses and projects to engineering your game's soundtracks & audio soundscapes, I'll complete any task with detail and efficiency.</h4>
+<h3 align="left">Welcome to my GitHub profile!</h3>
+<p><strong>I love creating and contributing towards web applications that empower other people to build amazing things.<br>
+From full-stack development for your businesses and projects to engineering your game's soundtracks & audio soundscapes, I'll complete any task with detail and efficiency.</strong></p>
 <h3>Interested in discussing more?</h3>
-<h4>Reach out to me via one of my social handles! I love talking tech and learning as much as possible. Let's share our knowledge!</h4>
+<p><strong>Reach out to me via one of my social handles! I love talking tech and learning as much as possible. Let's share our knowledge!</strong></p>
 
 <h2>My Toolbox</h2>
 <h4>
