@@ -1,7 +1,7 @@
 ![Welcome To My Page](https://raw.githubusercontent.com/charlesknapp/charlesknapp/main/banner-header-final.gif)
 <!-- <h1 align="left">𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚃𝚑𝚎 𝙶𝚒𝚝𝙷𝚞𝚋 𝚘𝚏 𝙲𝚑𝚊𝚛𝚕𝚎𝚜 𝙺𝚗𝚊𝚙𝚙</h1> -->
 
-<p align="left">
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=charlesknapp&label=Profile%20views&color=0e75b6&style=flat" alt="charlesknapp" /> <a href="#" title="Go to contributions doc"><img src="https://img.shields.io/badge/contributions-welcome-blue" alt="contributions - welcome"></a> <a href="https://www.microsoft.com/" title="Go to Microsoft homepage"><img src="https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white" alt="OS - Windows"></a> <a href="https://www.apple.com/macos/" title="Go to Apple homepage"><img src="https://img.shields.io/badge/OS-macOS-blue?logo=apple&logoColor=white" alt="OS - macOS"></a>
 </p>
 
