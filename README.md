@@ -7,7 +7,7 @@
 <h3 align="left">Welcome to My World!!</h3>
 <p><strong>I love creating and contributing towards web applications that empower other people to build amazing things.<br>
 From full-stack development for your businesses and projects to engineering your game's soundtracks & audio soundscapes, I'll complete any task with detail and efficiency.</strong></p>
-<h3>Interested in discussing more?</h3>
+<h3>Want to Discuss More?</h3>
 <p><strong>Reach out to me via one of my social handles! I love talking tech and learning as much as possible. Let's share our knowledge!</strong></p>
 <br>
 <h1>My Toolbox <img align="right" alt="Toolbox Icon" src="https://www.freeiconspng.com/thumbs/toolbox-icon/toolbox-icon-4.png" height="40" width="40"></h1>
@@ -22,9 +22,10 @@ From full-stack development for your businesses and projects to engineering your
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=charlesknapp&show_icons=true&locale=en&theme=codeSTACKr" alt="charlesknapp" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesknapp&show_icons=true&locale=en&theme=codeSTACKr" alt="charlesknapp" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=charlesknapp&show_icons=true&locale=en&theme=codeSTACKr" alt="charlesknapp" />
 
 <!-- <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesknapp&show_icons=true&layout=compact&locale=en&theme=github_dark" alt="charlesknapp" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesknapp&show_icons=true&locale=en&theme=codeSTACKr" alt="charlesknapp" />
 &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=charlesknapp&show_icons=true&layout=compact&locale=en&theme=github_dark" alt="charlesknapp" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=charlesknapp&show_icons=true&locale=en&theme=codeSTACKr" alt="charlesknapp" />
 </p> -->
