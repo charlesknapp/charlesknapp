@@ -3,8 +3,9 @@
 
 <h1>
 Hey 👋, I'm Charles!
-<a href="https://www.instagram.com/charleysongs/"><img align="left" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> &nbsp;
-<a href="https://linkedin.com/in/knappcharles"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://www.instagram.com/charleysongs/"><img align="right" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+&nbsp;
+<a href="https://linkedin.com/in/knappcharles"><img align="right" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </h1>
 
 <h1>
