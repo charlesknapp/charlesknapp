@@ -1,5 +1,18 @@
+<!-- CHARLE'S GITHUB README
+
+WELCOME TO MY GITHUB README CONTENT
+LIKE THIS CONTENT? YOU ARE MORE THAN
+WELCOME TO TAKE SOME PIECES AND USE
+THEM ON YOUR PROFILE!
+
+DO NOT FULLY COPY-PASTE ALL OF THE CONTENT,
+YOU WILL NEED TO EDIT A LOT OF PROPERTIES
+OF THE CONTENT TO MAKE SURE YOUR USER
+IS LINKED IN THE CORRECT SPACE.
+
+END -->
+
 ![Welcome To My Page](https://raw.githubusercontent.com/charlesknapp/charlesknapp/main/top-header.gif)
-<!-- <h1 align="left">𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚃𝚑𝚎 𝙶𝚒𝚝𝙷𝚞𝚋 𝚘𝚏 𝙲𝚑𝚊𝚛𝚕𝚎𝚜 𝙺𝚗𝚊𝚙𝚙</h1> -->
 
 <!-- old social link badges
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+I'm+Charles.;Thanks+for+Visiting+My+GitHub.;Let's+Make+Something+Incredible!" alt="Typing SVG" /></a> <a href='https://buymeacoffee.com/charlesknapp' target="_blank"><img align="right" alt='Buy me a coffee' src='https://img.shields.io/badge/BUY_ME A COFFEE-100000?style=flat&logo=Buy me a coffee&logoColor=white&labelColor=505050&color=FFE02C'/></a>
