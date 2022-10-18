@@ -87,7 +87,6 @@ END -->
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=charlesknapp&show_icons=true&locale=en&theme=codeSTACKr" alt="charlesknapp" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesknapp&show_icons=true&locale=en&theme=codeSTACKr" alt="charlesknapp" />
-<img align="left" src="https://raw.githubusercontent.com/charlesknapp/git-profile-stats/master/github_stats.svg" alt="charlesknapp" />
 
 <!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesknapp&show_icons=true&locale=en&theme=codeSTACKr" alt="charlesknapp" />
