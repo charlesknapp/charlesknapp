@@ -20,7 +20,7 @@ END -->
 <img src=https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black alt=codepen style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/charleysongs" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>
 <br/>  
