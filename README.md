@@ -12,8 +12,8 @@ IS LINKED IN THE CORRECT SPACE.
 
 END -->
 
-<div align="left">
-<a href="https://linkedin.com/in/knappcharles" target="_blank">
+<div>
+<a align="left" href="https://linkedin.com/in/knappcharles" target="_blank">
 <img align="left" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a align="center" href="https://codepen.com/charlesknapp" target="_blank">
