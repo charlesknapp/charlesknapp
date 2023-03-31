@@ -13,20 +13,20 @@ IS LINKED IN THE CORRECT SPACE.
 END -->
 
 <div align="center">
-<a href="https://linkedin.com/in/knappcharles" target="_blank">
+<a title="View my LinkedIn" href="https://linkedin.com/in/knappcharles" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://codepen.com/charlesknapp" target="_blank">
+<a title="View my CodePen" href="https://codepen.com/charlesknapp" target="_blank">
   <img src=https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black alt=codepen style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/charleysongs" target="_blank">
+<a title="View my Instagram" href="https://instagram.com/charleysongs" target="_blank">
   <img src=https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 </div>
 <br/>  
 
 <div align="center">
-  <a href="https://charles.cadogy.com/" target="_blank">
+  <a title="View my portfolio" href="https://charles.cadogy.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/charlesknapp/charlesknapp/main/intro-banner.gif" align="center" style="width: 100%" />
   </a>
 </div>
