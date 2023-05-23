@@ -19,7 +19,7 @@ END -->
 <a title="View my CodePen" href="https://codepen.com/charlesknapp" target="_blank">
   <img src=https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black alt=codepen style="margin-bottom: 5px;" />
 </a>
-<a title="View my Instagram" href="https://instagram.com/charleysongs" target="_blank">
+<a title="View my Instagram" href="https://instagram.com/charley.web" target="_blank">
   <img src=https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 </div>
