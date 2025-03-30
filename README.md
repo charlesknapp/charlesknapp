@@ -26,7 +26,7 @@ END -->
 <br/>  
 
 <div align="center">
-  <a title="View my portfolio" href="https://charles.cadogy.com/" target="_blank">
+  <a title="View my portfolio" href="https://www.cadogy.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/charlesknapp/charlesknapp/main/intro-banner.gif" align="center" style="width: 100%" />
   </a>
 </div>
