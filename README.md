@@ -53,10 +53,6 @@ Security and digital rights matter. I spend a lot of time on anti-piracy, DRM, a
 - Prototyping some cool stuff with Mongo, NextJS, and Rive
 - Breaking (and fixing) things to learn
 
-At Cadogy, we’re not just writing code, we’re solving real-world problems for clients across the globe. I’m always pushing for work that makes a difference.
-
-> Our mission? Tools that spark change. Not just fix bugs.
-
 ---
 
 ### Let's Chat
