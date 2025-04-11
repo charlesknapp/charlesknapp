@@ -22,18 +22,6 @@ END -->
 
 ## About Me
 
-<p>
-  <a href="https://linkedin.com/in/knappcharles" title="Connect on LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://codepen.com/charlesknapp" title="View my CodePen">
-    <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" alt="CodePen Badge" />
-  </a>
-  <a href="https://instagram.com/charley.web" title="Follow on Instagram">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge" />
-  </a>
-</p>
-
 ![Full Stack Dev](https://img.shields.io/badge/Full--Stack-JS%20%7C%20PHP%20%7C%20Mongo-blueviolet?style=for-the-badge)
 ![Security First](https://img.shields.io/badge/Cybersecurity-Focused-%23ff69b4?style=for-the-badge)
 ![Reverse Engineer](https://img.shields.io/badge/Reverse%20Engineering-%23e91e63?style=for-the-badge)
@@ -75,7 +63,17 @@ At Cadogy, we’re not just writing code, we’re solving real-world problems fo
 
 I’m always down to chat tech, startups, nerdy side projects, or why PHP still haunts me in my dreams.
 
-Message me on [LinkedIn](https://linkedin.com/in/knappcharles), check out [Cadogy](https://www.cadogy.com), or just shoot me a message on Discord if you’re into building cool stuff.
+<p>
+  <a href="https://linkedin.com/in/knappcharles" title="Connect on LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://codepen.com/charlesknapp" title="View my CodePen">
+    <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" alt="CodePen Badge" />
+  </a>
+  <a href="https://instagram.com/charley.web" title="Follow on Instagram">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge" />
+  </a>
+</p>
 
 ---
 
