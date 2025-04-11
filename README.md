@@ -39,28 +39,34 @@ Hey, I'm Charles, co-founder of [Cadogy](https://www.cadogy.com), full stack dev
 
 I'm big on clean architecture, secure infrastructure, and making tech that's useful and not just flashy. I work across the MERN stack, run secure servers, and reverse-engineer stuff for fun when I'm not prototyping new platforms or wrangling databases at 2am.
 
+---
+
 ### I Believe
 
 **Tech should empower people.**  
-Whether you’re a solo creator or an enterprise team, I’m all about giving you the tools that make hard problems easier and ideas more possible.
+I’m all about giving you the tools that make hard problems easier and ideas more possible.
 
 **Simplicity scales.**  
-I like to build systems that are lean, fast, and easy to maintain—not Rube Goldberg machines.
+I like to build systems that are lean, fast, and easy to maintain, not Rube Goldberg machines.
 
 **Ethics > shortcuts.**  
-Security and digital rights matter. I spend a lot of time on anti-piracy, DRM, and making sure tech protects people—not exploits them.
+Security and digital rights matter. I spend a lot of time on anti-piracy, DRM, and making sure tech protects people - not exploits them.
+
+---
 
 ### Current Focus
 
 - Scaling fullstack apps across cloud infrastructure
-- Crafting secure APIs and dev-first SDKs
-- Building marketplaces that blur the line between games and platforms
-- Prototyping some cool stuff with Mongo, Redis, and Firebase
+- Maintaining secure APIs and dev-first SDKs
+- Building marketplaces that blur the line between gamers and platforms
+- Prototyping some cool stuff with Mongo, NextJS, and Rive
 - Breaking (and fixing) things to learn
 
 At Cadogy, we’re not just writing code, we’re solving real-world problems for clients across the globe. I’m always pushing for work that makes a difference.
 
 > Our mission? Tools that spark change. Not just fix bugs.
+
+---
 
 ### Let's Connect
 
