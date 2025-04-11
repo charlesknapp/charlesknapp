@@ -12,6 +12,16 @@ IS LINKED IN THE CORRECT SPACE.
 
 END -->
 
+<div align="center">
+  <a title="Get in touch" href="https://www.cadogy.com/contact" target="_blank">
+    <img src="https://raw.githubusercontent.com/charlesknapp/charlesknapp/main/intro-banner.gif" align="center" style="width: 100%" />
+  </a>
+</div>
+
+---
+
+## About Me
+
 <p>
   <a href="https://linkedin.com/in/knappcharles" title="Connect on LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
@@ -23,16 +33,6 @@ END -->
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge" />
   </a>
 </p>
-
-<div align="center">
-  <a title="Get in touch" href="https://www.cadogy.com/contact" target="_blank">
-    <img src="https://raw.githubusercontent.com/charlesknapp/charlesknapp/main/intro-banner.gif" align="center" style="width: 100%" />
-  </a>
-</div>
-
----
-
-## About Me
 
 ![Full Stack Dev](https://img.shields.io/badge/Full--Stack-JS%20%7C%20PHP%20%7C%20Mongo-blueviolet?style=for-the-badge)
 ![Security First](https://img.shields.io/badge/Cybersecurity-Focused-%23ff69b4?style=for-the-badge)
