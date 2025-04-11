@@ -68,11 +68,11 @@ At Cadogy, we’re not just writing code, we’re solving real-world problems fo
 
 ---
 
-### Let's Connect
+### Let's Chat
 
 I’m always down to chat tech, startups, nerdy side projects, or why PHP still haunts me in my dreams.
 
-Drop a message on [LinkedIn](https://linkedin.com/in/knappcharles), check out [Cadogy](https://www.cadogy.com), or just shoot me a message on Discord if you’re into building cool stuff.
+Message me on [LinkedIn](https://linkedin.com/in/knappcharles), check out [Cadogy](https://www.cadogy.com), or just shoot me a message on Discord if you’re into building cool stuff.
 
 ---
 
