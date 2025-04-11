@@ -12,18 +12,17 @@ IS LINKED IN THE CORRECT SPACE.
 
 END -->
 
-<div align="center">
-<a title="View my LinkedIn" href="https://linkedin.com/in/knappcharles" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a title="View my CodePen" href="https://codepen.com/charlesknapp" target="_blank">
-  <img src=https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black alt=codepen style="margin-bottom: 5px;" />
-</a>
-<a title="View my Instagram" href="https://instagram.com/charley.web" target="_blank">
-  <img src=https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-</div>
-<br/>  
+<p align="center">
+  <a href="https://linkedin.com/in/knappcharles" title="Connect on LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://codepen.com/charlesknapp" title="View my CodePen">
+    <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" alt="CodePen Badge" />
+  </a>
+  <a href="https://instagram.com/charley.web" title="Follow on Instagram">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge" />
+  </a>
+</p>
 
 <div align="center">
   <a title="View my portfolio" href="https://www.cadogy.com/" target="_blank">
