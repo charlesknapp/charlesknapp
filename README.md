@@ -37,7 +37,7 @@ END -->
 
 ![Full Stack Dev](https://img.shields.io/badge/Full--Stack-JS%20%7C%20PHP%20%7C%20Mongo-blueviolet?style=for-the-badge)
 ![Security First](https://img.shields.io/badge/Cybersecurity-Focused-%23ff69b4?style=for-the-badge)
-![Reverse Engineer](https://img.shields.io/badge/Game%20Reverse%20Engineering-%23e91e63?style=for-the-badge)
+![Reverse Engineer](https://img.shields.io/badge/Reverse%20Engineering-%23e91e63?style=for-the-badge)
 
 Hey, I'm Charles, co-founder of [Cadogy](https://www.cadogy.com), full stack dev, CTO, and someone who just really loves building things that don’t break under pressure. I’ve spent time in fast-moving teams, solving tricky problems and building things that actually ship.
 
