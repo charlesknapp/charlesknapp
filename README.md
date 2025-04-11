@@ -35,7 +35,9 @@ END -->
 
 ## About Me
 
-Hey, I'm Charles, co-founder of [Cadogy](https://www.cadogy.com), full stack dev, CTO, and someone who just really loves building things that don’t break under pressure. I’ve spent time in fast-moving teams, solving tricky problems and building things that actually ship. I'm big on clean architecture, secure infrastructure, and making tech that's useful and not just flashy. I work across the MERN stack, run secure servers, and reverse-engineer stuff for fun when I'm not prototyping new platforms or wrangling databases at 2am.
+Hey, I'm Charles, co-founder of [Cadogy](https://www.cadogy.com), full stack dev, CTO, and someone who just really loves building things that don’t break under pressure. I’ve spent time in fast-moving teams, solving tricky problems and building things that actually ship.
+
+I'm big on clean architecture, secure infrastructure, and making tech that's useful and not just flashy. I work across the MERN stack, run secure servers, and reverse-engineer stuff for fun when I'm not prototyping new platforms or wrangling databases at 2am.
 
 ### I Believe
 
