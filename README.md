@@ -12,16 +12,6 @@ IS LINKED IN THE CORRECT SPACE.
 
 END -->
 
-<div align="center">
-  <a title="Get in touch" href="https://www.cadogy.com/contact" target="_blank">
-    <img src="https://raw.githubusercontent.com/charlesknapp/charlesknapp/main/intro-banner.gif" align="center" style="width: 100%" />
-  </a>
-</div>
-
----
-
-## About Me
-
 ![Full Stack Dev](https://img.shields.io/badge/Full--Stack-JS%20%7C%20PHP%20%7C%20Mongo-blueviolet?style=for-the-badge)
 ![Security First](https://img.shields.io/badge/Cybersecurity-Focused-%23ff69b4?style=for-the-badge)
 ![Reverse Engineer](https://img.shields.io/badge/Reverse%20Engineering-%23e91e63?style=for-the-badge)
