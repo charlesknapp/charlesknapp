@@ -20,49 +20,6 @@ Hey, I'm Charles, co-founder of [Cadogy](https://www.cadogy.com), full stack dev
 
 I'm big on clean architecture, secure infrastructure, and making tech that's useful and not just flashy. I work across the MERN stack, run secure servers, and reverse-engineer stuff for fun when I'm not prototyping new platforms or wrangling databases at 2am.
 
----
-
-### I Believe
-
-**Tech should empower people.**  
-I’m all about giving you the tools that make hard problems easier and ideas more possible.
-
-**Simplicity scales.**  
-I like to build systems that are lean, fast, and easy to maintain, not Rube Goldberg machines.
-
-**Ethics > shortcuts.**  
-Security and digital rights matter. I spend a lot of time on anti-piracy, DRM, and making sure tech protects people - not exploits them.
-
----
-
-### Current Focus
-
-- Scaling fullstack apps across cloud infrastructure
-- Maintaining secure APIs and dev-first SDKs
-- Building marketplaces that blur the line between gamers and platforms
-- Prototyping some cool stuff with Mongo, NextJS, and Rive
-- Breaking (and fixing) things to learn
-
----
-
-### Let's Chat
-
-I’m always down to chat tech, startups, nerdy side projects, or why PHP still haunts me in my dreams.
-
-<p>
-  <a href="https://linkedin.com/in/knappcharles" title="Connect on LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://codepen.com/charlesknapp" title="View my CodePen">
-    <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" alt="CodePen Badge" />
-  </a>
-  <a href="https://instagram.com/charley.web" title="Follow on Instagram">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge" />
-  </a>
-</p>
-
----
-
 <table>
   <tr>
     <td valign="top" width="33%">
@@ -103,3 +60,44 @@ I’m always down to chat tech, startups, nerdy side projects, or why PHP still 
     </td>
   </tr>
 </table>
+
+---
+
+### I Believe
+
+**Tech should empower people.**  
+I’m all about giving you the tools that make hard problems easier and ideas more possible.
+
+**Simplicity scales.**  
+I like to build systems that are lean, fast, and easy to maintain, not Rube Goldberg machines.
+
+**Ethics > shortcuts.**  
+Security and digital rights matter. I spend a lot of time on anti-piracy, DRM, and making sure tech protects people - not exploits them.
+
+---
+
+### Current Focus
+
+- Scaling fullstack apps across cloud infrastructure
+- Maintaining secure APIs and dev-first SDKs
+- Building marketplaces that blur the line between gamers and platforms
+- Prototyping some cool stuff with Mongo, NextJS, and Rive
+- Breaking (and fixing) things to learn
+
+---
+
+### Let's Chat
+
+I’m always down to chat tech, startups, nerdy side projects, or why PHP still haunts me in my dreams.
+
+<p>
+  <a href="https://linkedin.com/in/knappcharles" title="Connect on LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://codepen.com/charlesknapp" title="View my CodePen">
+    <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" alt="CodePen Badge" />
+  </a>
+  <a href="https://instagram.com/charley.web" title="Follow on Instagram">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge" />
+  </a>
+</p>
