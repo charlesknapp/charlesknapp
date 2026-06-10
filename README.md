@@ -16,44 +16,23 @@ END -->
 
 Full-stack engineer and co-founder / CTO of **[PlayerBay](https://www.playerbay.com)** — a gaming marketplace I'm building end to end, from the database schema to the checkout button.
 
-Most of my time goes into the parts of a product that have to be correct, not just working: **payment integrations** (card + crypto, escrow, payouts, refunds, fraud/velocity controls), **authentication & authorization** (session security, RBAC, ban-evasion detection), and the real-time systems that hold an order together. I care a lot about clean domain modeling, type safety, and code that behaves under load and adversarial input.
+I work across the whole stack, but I'm at my best in the high-stakes parts of a product — **payments** (card and crypto, escrow, payouts, refunds, fraud and velocity controls), **auth and access control** (sessions, RBAC, ban-evasion detection), and the **real-time systems** that keep an order in sync for everyone watching it. Strong typing, clean domain models, and small well-tested changes are how I keep that kind of work honest.
 
-I design systems as composable, well-tested units and ship in small, verifiable increments — see how the marketplace comes together at **[playerbay.com](https://www.playerbay.com)**.
+#### Tech I build with
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3 align="center">Core</h3>
-      <div align="center">
-        <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-        <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next.js" height="50" /></a>
-        <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-        <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-        <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
-        <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Payments &amp; Auth</h3>
-      <div align="center">
-        <a href="https://stripe.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/stripe-4.svg" alt="Stripe" height="50" /></a>
-        <a href="https://www.better-auth.com/" target="_blank"><img style="margin: 10px" src="https://www.better-auth.com/_next/image?url=%2Flogo.png&w=64&q=75" alt="Better Auth" height="50" /></a>
-        <a href="https://zod.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/zod.svg" alt="Zod" height="50" /></a>
-        <a href="https://socket.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/socket-io.svg" alt="Socket.IO" height="50" /></a>
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Infra</h3>
-      <div align="center">
-        <a href="https://www.cloudflare.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/cloudflare.svg" alt="Cloudflare" height="50" /></a>
-        <a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="Vercel" height="50" /></a>
-        <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
-        <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-        <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-      </div>
-    </td>
-  </tr>
-</table>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
