@@ -12,44 +12,44 @@ IS LINKED IN THE CORRECT SPACE.
 
 END -->
 
-I'm Charles, co-founder of [PlayerBay](https://www.playerbay.com), full stack dev, CTO, and someone who just really loves building things that don’t break under pressure. I’ve spent time in fast-moving teams, solving tricky problems and building things that actually ship. I work across the MERN stack, run secure servers, and reverse-engineer stuff for fun when I'm not prototyping new platforms or wrangling databases at 2am.
+### Hey, I'm Charles 👋
+
+Full-stack engineer and co-founder / CTO of **[PlayerBay](https://www.playerbay.com)** — a gaming marketplace I'm building end to end, from the database schema to the checkout button.
+
+Most of my time goes into the parts of a product that have to be correct, not just working: **payment integrations** (card + crypto, escrow, payouts, refunds, fraud/velocity controls), **authentication & authorization** (session security, RBAC, ban-evasion detection), and the real-time systems that hold an order together. I care a lot about clean domain modeling, type safety, and code that behaves under load and adversarial input.
+
+I design systems as composable, well-tested units and ship in small, verifiable increments — see how the marketplace comes together at **[playerbay.com](https://www.playerbay.com)**.
 
 <table>
   <tr>
     <td valign="top" width="33%">
-      <h3 align="center">Frontend</h3>
+      <h3 align="center">Core</h3>
       <div align="center">
-        <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-        <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>
         <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-        <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-        <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
-        <a href="https://www.radix-ui.com/primitives" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/radix-ui.svg" alt="Radix UI" height="50" /></a>
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Backend</h3>
-      <div align="center">
+        <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next.js" height="50" /></a>
+        <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
         <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-        <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
         <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
-        <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
-        <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="MariaDB" height="50" /></a>
-        <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
         <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>
       </div>
     </td>
     <td valign="top" width="33%">
-      <h3 align="center">DevOps</h3>
+      <h3 align="center">Payments &amp; Auth</h3>
       <div align="center">
+        <a href="https://stripe.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/stripe-4.svg" alt="Stripe" height="50" /></a>
+        <a href="https://www.better-auth.com/" target="_blank"><img style="margin: 10px" src="https://www.better-auth.com/_next/image?url=%2Flogo.png&w=64&q=75" alt="Better Auth" height="50" /></a>
+        <a href="https://zod.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/zod.svg" alt="Zod" height="50" /></a>
+        <a href="https://socket.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/socket-io.svg" alt="Socket.IO" height="50" /></a>
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3 align="center">Infra</h3>
+      <div align="center">
+        <a href="https://www.cloudflare.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/cloudflare.svg" alt="Cloudflare" height="50" /></a>
+        <a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="Vercel" height="50" /></a>
         <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
-        <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>
         <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
         <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
-        <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>
-        <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>
       </div>
     </td>
   </tr>
@@ -59,9 +59,12 @@ I'm Charles, co-founder of [PlayerBay](https://www.playerbay.com), full stack de
 
 ### Let's Chat
 
-I’m always down to chat tech, startups, nerdy side projects, or why PHP still haunts me in my dreams.
+Always happy to talk shop — payments, marketplaces, auth, or whatever you're building. You can also just go see the work live at **[PlayerBay](https://www.playerbay.com)**.
 
 <p>
+  <a href="https://www.playerbay.com" title="Visit PlayerBay">
+    <img src="https://img.shields.io/badge/PlayerBay-%230B5FFF.svg?style=for-the-badge&logo=gamepad&logoColor=white" alt="PlayerBay Badge" />
+  </a>
   <a href="https://linkedin.com/in/knappcharles" title="Connect on LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
