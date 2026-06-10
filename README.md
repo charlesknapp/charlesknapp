@@ -12,12 +12,7 @@ IS LINKED IN THE CORRECT SPACE.
 
 END -->
 
-![Full Stack Dev](https://img.shields.io/badge/Full--Stack-JS%20%7C%20PHP%20%7C%20Mongo-blueviolet?style=for-the-badge)
-![Security First](https://img.shields.io/badge/Cybersecurity-Focused-%23ff69b4?style=for-the-badge)
-
-Hey, I'm Charles, co-founder of [Cadogy](https://www.cadogy.com) & [PlayerBay](https://www.playerbay.com), full stack dev, CTO, and someone who just really loves building things that don’t break under pressure. I’ve spent time in fast-moving teams, solving tricky problems and building things that actually ship.
-
-I'm big on clean architecture, secure infrastructure, and making tech that's useful and not just flashy. I work across the MERN stack, run secure servers, and reverse-engineer stuff for fun when I'm not prototyping new platforms or wrangling databases at 2am.
+I'm Charles, co-founder of [PlayerBay](https://www.playerbay.com), full stack dev, CTO, and someone who just really loves building things that don’t break under pressure. I’ve spent time in fast-moving teams, solving tricky problems and building things that actually ship. I work across the MERN stack, run secure servers, and reverse-engineer stuff for fun when I'm not prototyping new platforms or wrangling databases at 2am.
 
 <table>
   <tr>
@@ -59,29 +54,6 @@ I'm big on clean architecture, secure infrastructure, and making tech that's use
     </td>
   </tr>
 </table>
-
----
-
-### I Believe
-
-**Tech should empower people.**  
-I’m all about giving you the tools that make hard problems easier and ideas more possible.
-
-**Simplicity scales.**  
-I like to build systems that are lean, fast, and easy to maintain, not Rube Goldberg machines.
-
-**Ethics > shortcuts.**  
-Security and digital rights matter. I spend a lot of time on anti-piracy, DRM, and making sure tech protects people - not exploits them.
-
----
-
-### Current Focus
-
-- Scaling fullstack apps across cloud infrastructure
-- Maintaining secure APIs and dev-first SDKs
-- Building marketplaces that blur the line between gamers and platforms
-- Prototyping some cool stuff with Mongo, NextJS, and Rive
-- Breaking (and fixing) things to learn
 
 ---
 
