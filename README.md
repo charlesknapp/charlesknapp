@@ -50,7 +50,7 @@ I work across the whole stack, but I'm at my best in the high-stakes parts of a 
 
 ### Let's Chat
 
-Always happy to talk shop — payments, marketplaces, auth, or whatever you're building. You can also just go see the work live at **[PlayerBay](https://www.playerbay.com)**.
+Always happy to talk shop! Payments, marketplaces, auth, or whatever you're building. You can also just go see the work live at **[PlayerBay](https://www.playerbay.com)**.
 
 <p>
   <a href="https://www.playerbay.com" title="Visit PlayerBay">
