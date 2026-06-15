@@ -14,7 +14,7 @@ END -->
 
 Full-stack engineer and co-founder / CTO of **[PlayerBay](https://www.playerbay.com)** — a gaming marketplace I'm building end to end, from the database schema to the checkout button.
 
-I work across the whole stack, but I'm at my best in the high-stakes parts of a product — **payments** (card and crypto, escrow, payouts, refunds, fraud and velocity controls), **auth and access control** (sessions, RBAC, ban-evasion detection), and the **real-time systems** that keep an order in sync for everyone watching it. Strong typing, clean domain models, and small well-tested changes are how I keep that kind of work honest.
+I work across the whole stack, but I'm at my best in the high-stakes parts of a product — **payments** (card and crypto, escrow, payouts, refunds, fraud and velocity controls), **auth and access control** (sessions, RBAC, ban-evasion detection), and the **real-time systems** that keep an order in sync for everyone watching it. Strong typing, clean domain models, and small well-tested changes keep the projects going smoothly.
 
 **Languages & Frameworks**
 &nbsp;
